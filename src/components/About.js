@@ -8,7 +8,7 @@ const team = [
   {
     name: 'Teboho Motholo',
     role: 'Founder & Lead Specialist',
-    img: '/images/Teboho.jpg'
+    img: '/images/Teboho.webp'
   }
 ];
 

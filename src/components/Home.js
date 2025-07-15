@@ -21,7 +21,7 @@ export default function Home() {
             </Col>
             <Col md={5}>
               <motion.img
-                src="/images/hero-illustration.svg"
+                src="/images/hero-illustration.webp"
                 alt="Tech Support"
                 className="img-fluid"
                 initial={{ scale: 0.9, opacity: 0 }}
@@ -45,7 +45,7 @@ export default function Home() {
               <Button variant="primary" href="/about">Learn More</Button>
             </Col>
             <Col md={6}>
-              <img src="/images/community-tech.png" alt="Community" className="img-fluid rounded shadow" />
+              <img src="/images/community-tech.webp" alt="Community" className="img-fluid rounded shadow" />
             </Col>
           </Row>
         </Container>
