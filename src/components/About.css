@@ -1,0 +1,17 @@
+.about-card {
+  border-radius: 1rem;
+}
+.about-img {
+  width: 140px;
+  height: 400px;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 0%;
+  margin: -70px auto 10px auto;
+  display: block;
+  border: 4px solid white;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+.meet-team-heading {
+  margin-bottom: 6rem;
+}

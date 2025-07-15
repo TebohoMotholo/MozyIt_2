@@ -1,0 +1,26 @@
+.hero-section {
+  background: linear-gradient(135deg, #1a237e, #0d47a1);
+  padding: 100px 0;
+  min-height: 80vh;
+}
+
+.hero-section h1 {
+  color: #fff;
+}
+
+.hero-section p {
+  color: #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+section h2 {
+  font-weight: 600;
+}
+
+section p {
+  font-size: 1.1rem;
+}
