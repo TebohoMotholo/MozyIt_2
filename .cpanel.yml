@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/mozyitco/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/rsync -av public/ $DEPLOYPATH
