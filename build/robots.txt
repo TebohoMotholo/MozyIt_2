@@ -1,0 +1,9 @@
+# robots.txt for mozyit.co.za
+
+User-agent: *
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://www.mozyit.co.za/sitemap.xml
